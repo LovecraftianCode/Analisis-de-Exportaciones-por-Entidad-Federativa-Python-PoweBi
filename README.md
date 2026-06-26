@@ -21,7 +21,6 @@
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Análisis exploratorio](#análisis-exploratorio)
 - [Archivos incluidos](#archivos-incluidos)
-- [Cómo ejecutar localmente](#cómo-ejecutar-localmente)
 - [Autor](#autor)
 
 ## Sobre este proyecto
